@@ -12,4 +12,4 @@ This tool evaluates the strength of a password based on various criteria such as
 
 ```python
 Password: password, Strength: Weak
-Password: Password123!, Strength: Strong
+Password: Password123!, Strength: Strong 
